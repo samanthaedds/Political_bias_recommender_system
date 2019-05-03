@@ -1,0 +1,35 @@
+source,political_leaning,score
+theguardian,Mostly liberal left,1
+aljazeera,Mostly liberal left,0.95
+npr,Mostly liberal middle,0.9
+nytimes,Mostly liberal right,0.85
+pbs,Mostly Liberal right,0.8
+bbc,Mostly liberal right,0.75
+huffingtonpost,Mostly liberal right,0.7
+washingtonpost,Mostly liberal right,0.65
+theeconomist,Mostly liberal right,0.6
+politico,Mostly liberal right,0.5
+cnn,Mixed far left,0.4
+msnbc,Mixed left,0.35
+nbc,Mixed left,0.3
+cbsnews,Mixed left,0.25
+bloomberg,Mixed left,0.2
+abc,Mixed left,0.15
+usatoday,Mixed left,0.125
+wsj,Mixed middle,0.1
+foxnews,Mixed right,-0.4
+breitbart,Mostly conservative right,-0.6
+Rush Limbaugh Show,Mostly conservative right,-0.7
+theblaze,Mostly conservative right,-0.8
+Sean Hannity Show,Mostly conservative right,-0.9
+Glenn Beck Show,Mostly conservative right,-1
+fivethirtyeight,Mixed middle,0.15
+dailycaller,Mostly conservative right,-0.75
+dailymail,Mostly conservative right,-0.7
+nypost,Mostly conservative right,-0.8
+pagesix,Mostly conservative right,-0.9
+redstate,Mostly conservative right,-0.95
+washingtontimes,Mixed right,-0.55
+westernexaminer,Mostly conservative right,-0.6
+thefederalist,Mostly conservative right,-0.65
+townhall,Mostly conservative right,-0.85
