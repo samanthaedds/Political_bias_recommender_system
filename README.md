@@ -4,7 +4,7 @@ We built a recommender system for news that incorporates a user’s prior known 
 takes into account a user’s feedback. Our system then recommends something the user
 might not otherwise read. We create simulated users to demonstrate our results (SI650_Project_Simulations.py), and
 additionally build an interactive interface to be used in real time(SI650_Project_Demo.py).
-Any code written by my project partner is noted. 
+Any code written by my project partner is noted (lines 312-382 in SI650_Project_Simulations.py).
 
 # Big idea
 We simulate the click logs of 10 users with different political leanings, creating an average political leaning score for each
